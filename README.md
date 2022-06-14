@@ -23,7 +23,9 @@ cd vale_example
 vale .
 ```
 
-## 紹介記事
+## 解説記事
+
+[Vale による英語ドキュメント校正入門 - Qiita](https://qiita.com/haru52/items/c554ac75767767ea1f8c)
 
 ## ライセンス
 
