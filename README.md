@@ -14,13 +14,20 @@
 
 ```sh
 gh repo clone haru52/vale_example
+cd vale_example
+vale sync
 ```
 
 ## 利用方法
 
 ```sh
-cd vale_example
-vale .
+vale docs
+```
+
+## Vale styles アップデート
+
+```sh
+vale sync
 ```
 
 ## 解説記事
