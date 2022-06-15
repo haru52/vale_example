@@ -1,2 +1,5 @@
 fuga
 hoge
+haru
+MIT
+Qiita
